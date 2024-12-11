@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Регистрация</title>
+	<link rel="stylesheet" type="text/css" href="login.css">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="main">  	
+		<input type="checkbox" id="chk" aria-hidden="true">
+
+			<div class="signup">
+				<form>
+					<label for="chk" aria-hidden="true">Зарегистрироваться</label>
+					<input type="text" name="txt" placeholder="Имя пользователя" required="">
+					<input type="email" name="email" placeholder="Email" required="">
+          			<input type="number" name="номер" placeholder="номер телефона" required="">
+					<input type="password" name="pswd" placeholder="Пароль" required="">
+					<button>Продолжить</button>
+
+				</form>
+			</div>
+
+			<div class="login">
+				<form>
+					<label for="chk" aria-hidden="true">Войти</label>
+					<input type="email" name="email" placeholder="Email" required="">
+					<input type="password" name="pswd" placeholder="Пароль" required="">
+					<form action="/главная/index.html" target="_blank">
+					<button>Войти</button>
+					</form>
+				</form>
+			</div>
+	</div>
+</body>
+</html>

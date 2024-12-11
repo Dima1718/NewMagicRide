@@ -1,0 +1,31 @@
+/* Figma Styles of your File */
+:root {
+    /* Colors */
+    --bumper-cars: undefined;
+    --ferris-wheel: undefined;
+    --merry-go-round: undefined;
+    --water-tubes: undefined;
+    --roller-coaster: undefined;
+    --lazy-river: undefined;
+    --dark-ride: undefined;
+    --steel-coaster: undefined;
+    --mickey-mouse: undefined;
+    --hot-dogs: undefined;
+    --french-fries: undefined;
+    --swing-ride: undefined;
+  
+    /* Fonts */
+    --heading-font-family: Inter-Black, sans-serif;
+    --heading-font-size: 32px;
+    --heading-line-height: 46px;
+    --heading-font-weight: 900;
+    --heading-font-style: normal;
+    --base-font-family: Inter-Regular, sans-serif;
+    --base-font-size: 32px;
+    --base-line-height: 46px;
+    --base-font-weight: 400;
+    --base-font-style: normal;
+  
+    /* Effects */
+  }
+  
